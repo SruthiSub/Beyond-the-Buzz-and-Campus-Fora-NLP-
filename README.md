@@ -2,6 +2,9 @@
 The executed code of the model can be referred here:
 https://colab.research.google.com/drive/13FnAUJJFLA-I-UgLQI7GSvVMTD1sYt2e?usp=sharing
 
+What I have done in this model:
+
+
 Importing all the required libraries. We mainly use keras from tensorflow in this model. 
 
 Downloaded all the data- the data to train the model as well as the data required to test the model
